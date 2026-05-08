@@ -1,0 +1,7 @@
+scipy
+pycuda
+onnx
+onnxruntime
+opencv-python
+torch
+tk
